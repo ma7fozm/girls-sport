@@ -1,0 +1,8 @@
+[20-Apr-2019 06:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home1/kpgnkymy/public_html/girls_sport/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/kpgnkymy/public_html/girls_sport/routes/console.php on line 16
+[20-Apr-2019 06:02:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home1/kpgnkymy/public_html/girls_sport/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/kpgnkymy/public_html/girls_sport/routes/console.php on line 16
